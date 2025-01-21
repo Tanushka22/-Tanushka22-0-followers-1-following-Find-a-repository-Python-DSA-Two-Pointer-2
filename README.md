@@ -1,1 +1,1 @@
-# -Tanushka22-0-followers-1-following-Find-a-repository-Python-DSA-Two-Pointer-2
+# Find-a-repository-Python-DSA-Two-Pointer-2
